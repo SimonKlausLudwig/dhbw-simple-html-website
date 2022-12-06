@@ -1,0 +1,13 @@
+{
+    "name": "simple-html-webiste",
+    "version": "0.1.0",
+    "description": "A simple HTML website served via nodejs",
+    "author": "Simon Ludwig",
+    "license": "MIT",
+    "scripts": {
+        "dev": "yarn live-server"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
